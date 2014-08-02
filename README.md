@@ -1,4 +1,4 @@
 Microcontroller-Digital-Timer
 =============================
 
-Microcontroller Digital Timer11
+The code has been compiled using CCS C compiler
